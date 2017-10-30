@@ -1,7 +1,7 @@
 [Farfetch Mobile App](https://farfetchapp.github.io)<br>
 A mobile imagesharing game.<br>
 [Repository](https://github.com/farfetchapp/farfetchapp.github.io)<br>
-<i>farfetchmobileapp@gmail.com</i>
+<i>farfetchmobileapp@gmail.com</i><br>
 <br>
 ![Farfetch](https://i.imgur.com/3uOpPBp.jpg)
 ![Classic](https://i.imgur.com/iiLldhV.jpg)
