@@ -1,5 +1,7 @@
 [Farfetch Mobile App](https://farfetchapp.github.io)<br>
-A mobile imagesharing game.<br>
+A mobile imagesharing game based on Apples to Apples.<br>
+Supported on both Android and iOS. Website coded in HTML/CSS/JS.<br>
+Currently in development.<br>
 [Repository](https://github.com/farfetchapp/farfetchapp.github.io)<br>
 <i>farfetchmobileapp@gmail.com</i><br>
 <br>
